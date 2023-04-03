@@ -1,2 +1,2 @@
 # DashGO
-project in React , typescript and CHAKRA UI
+project in Next React , typescript and CHAKRA UI
